@@ -1,8 +1,8 @@
 # solidity repo
-This repo is to track my solidity language study 
-
+This repo is to track my solidity language study and
 I would like to tell you about Solidity.
-Introduction to Solidity
+
+# Introduction to Solidity
 a high-level, statically-typed programming language designed for developing smart contracts that run on the Ethereum Virtual Machine (EVM). It is widely used for creating decentralized applications (DApps) and automating blockchain-based processes. Inspired by languages like JavaScript, C++, and Python, Solidity provides features such as inheritance, libraries, and user-defined types to write secure and efficient contracts.
 
 Key Features:
