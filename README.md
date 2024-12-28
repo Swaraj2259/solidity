@@ -1,4 +1,4 @@
-# solidity repo
+# Solidity repo
 This repo is to track my solidity language study and
 I would like to tell you about Solidity.
 
