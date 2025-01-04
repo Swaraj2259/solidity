@@ -5,6 +5,7 @@ contract ViewAndPureExample {
     uint256 public stateVariable = 100; // State variable stored on the blockchain
 
     /*
+
         View Function:
         - Reads the `stateVariable` (stored on the blockchain).
         - Does not modify the state.
